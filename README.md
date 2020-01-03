@@ -6,7 +6,7 @@ How to run
 
 sudo apt-get install git -y
 
-sudo git clone https://github.com/JohnMcAfeeBR/tvhoscam1.git
+sudo git clone https://github.com/JohnMcAfeeBR/tvhoscam.git
 
 cd tvhoscam
 
